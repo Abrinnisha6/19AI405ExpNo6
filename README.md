@@ -1,6 +1,6 @@
-<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 
-### DEVELOPED BY :ABRIN NISHA A
+### DEVELOPED BY : ABRIN NISHA A
 ### REG NO : 212222230005
 
 <H3>Aim:</H3>
