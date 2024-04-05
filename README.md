@@ -3,13 +3,13 @@
 ### DEVELOPED BY : ABRIN NISHA A
 ### REG NO : 212222230005
 
-<H3>Aim:</H3>
+## Aim :
 
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 </p>
 
-<H3>Theory and Procedure:</H3>
+## Theory and Procedure :
 
 To begin, let's start by defining what it means to play a perfect game of tic tac toe:
 
@@ -66,7 +66,7 @@ Let's walk through the algorithm's execution with the full move tree, and show w
 
 Here is the function for scoring the game:
 
-# @player is the turn taking player :
+## @player is the turn taking player :
 def score(game)
     if game.win?(@player)
         return 10
@@ -105,7 +105,9 @@ def minimax(game)
         return scores[min_score_index]
     end
 end
+
 ## PROGRAM :
+
 ```
 import time
 
@@ -310,5 +312,5 @@ if __name__ == "__main__":
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a2acb6a1-ed8e-42e5-8968-fe805e4b0255)
 
 <hr>
-<h2>Result :</h2>
+## Result :</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
